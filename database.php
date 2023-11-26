@@ -9,7 +9,7 @@
 $db_host = 'localhost';
 $db_name = 'quiz';
 $db_user = 'quiz';
-$db_pass = 'J@p2ICs2RmM08u*h';
+$db_pass = '';
 
 //Create mysqli object
 $mysqli = new mysqli($db_host,$db_user,$db_pass,$db_name);
